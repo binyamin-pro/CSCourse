@@ -1,0 +1,101 @@
+.profile_card {
+    width: 500px;
+    height: 620px;
+    border: dotted;
+    box-shadow: 4px 4px 10px;
+    background-color: aqua;
+    background-size: contain;
+    text-align: center;
+}
+
+.profile_card img {
+    border-radius: 50%;
+    padding: 20px;
+    }
+
+.custom-btn {
+width: 400px;
+height: 400px;
+padding: 30px;
+border-color: aqua, purple, yellow;
+border-radius: 20%;
+background-size: cover;
+background-color: blue;
+border-style: dotted;
+border-color: greenyellow;
+}
+
+.custom-btn:hover {
+width: 400px;
+height: 400px;
+padding: 30px;
+border-style: dotted;
+border-color: olivedrab;
+border-radius: 20%;
+background-size: cover;
+background-color: crimson;
+box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+}
+
+
+
+.custom-btn h1 {
+        text-align: center;
+    }
+.banner {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzoo-guide.com%2Fwp-content%2Fuploads%2F2023%2F06%2FKiwi-scaled-1.webp&f=1&nofb=1&ipt=ab677bfb3d2fce382d1f742b992d3fdfda24b763d80a65861461317d9cec88d5');
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text {
+    background: rgb(192 200 121 / 40%);
+    padding: 5px;
+    text-align: center;
+}
+.div_box{
+
+    background-color: #f9f9f9;
+    height: 200px;
+    width:300px;
+    border: 2px dashed gray;
+}
+.Avatar {
+    background-image:
+    url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F71117%2Fanimal-flamingo-bill-red-71117.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-pixabay-71117.jpg%26fm%3Djpg&f=1&nofb=1&ipt=4d0ddf2b887b364fd62264ff114ad7eb333334ac33b51ed2d14a3168fd2fced5');
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.card{
+
+    width: 320px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: white;
+    font-size: 1.6rem;
+}
+.Banner_for_task_7 {
+    height: 300px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.Xu6A0qMowE35lmei5VnN4AHaFj%3Fpid%3DApi&f=1&ipt=3c922851dfca3a1f4211a2fb491f5ca6c15cc08eb160b2202d68e6a0f3b1c8e2&ipo=images');
+    background-size: cover;
+    background-position: center;
+}
+.Text h3{
+
+    color: white;
+}
+.btn {
+    height: 100px;
+    width: 200px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnasregion.cz%2Fwp-content%2Fuploads%2F2023%2F12%2F1618px-Dikobraz_palawansky_zoo_praha_1.jpg&f=1&nofb=1&ipt=c092c6a4a13bb7aeee9476e9e7fb1c437d4b8162fb67d8af543dea54b2c9aea5');
+    color:white;
+    background-size: cover;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
